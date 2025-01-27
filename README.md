@@ -1,1 +1,3 @@
 # NLP_Lora
+
+This repository reimplements key experiments from the paper "LORA: Low-Rank Adaptation of Large Language Models" by Hu et al. (2021). In particular, we focus on the experiments in the paper that demonstrate the effectiveness of the LORA method in adapting large language models to new tasks with limited data. We reimplement the experiments on RoBERTa and GPT-2 models using the Hugging Face Transformers library. Furthmore, we add extended experiments dealing with quantization, image classification, and rank/task relationships. Each experiment is implemented in a separate Jupyter notebook.
